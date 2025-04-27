@@ -114,7 +114,7 @@ interface SlideItem {
 }
 
 const autoplay = {
-  delay: 3000,
+  delay: 3000111,
   disableOnInteraction: false,
 };
 
