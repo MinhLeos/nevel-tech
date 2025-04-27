@@ -13,7 +13,7 @@
 
     <!-- Mobile -->
     <div
-      class="flex 1440:hidden gap-1.5 justify-center px-4 py-6 overflow-hidden"
+      class="flex 1440:hidden gap-1.5 justify-center w-full max-w-[400px] md:px-4 py-6 overflow-hidden"
     >
       <MenuButton
         v-for="{ id, icon, isGroup, text } in mobileList"
